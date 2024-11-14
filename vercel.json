@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://laravel-portofolio-fd2obuguf-maulanas-projects-eb64168b.vercel.app/",
+        "APP_URL": "https://yourproductionurl.com",
         "APP_KEY": "base64:T4zXB83iMG5kJBcJhFxKpAKO0vA1l0sqC00D4UnZ/aw=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
